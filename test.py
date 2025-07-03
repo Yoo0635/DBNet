@@ -1,2 +1,2 @@
-print("hi")
-print("asd")
+print("연동 완료")
+print("추가")
